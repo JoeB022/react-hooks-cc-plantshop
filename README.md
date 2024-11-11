@@ -18,7 +18,7 @@ The application entails of a plant store app where a user can access it through 
 
 ## Endpoints
 
-You can view the web live on: #############
+You can view the web live on: https://react-hooks-cc-plantshop-ashen.vercel.app
 
 ## Core Deliverables
 
